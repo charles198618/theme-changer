@@ -9,4 +9,16 @@ html, body {
     padding: 15px;
     cursor: pointer;
   }
+  * {
+    outline: 0;
+  }
   
+  .dark {
+    background-color: #112F41;
+    color: #ffffff;
+  }
+  
+  .dark button {
+    background: #144098;
+    color: #fff;
+  }
